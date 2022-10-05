@@ -1,0 +1,3 @@
+/Users/alexistorres/Documents/Code/EE312/Projects/Project8InterpreterA/Project8_starter_files/cmake-build-debug/CMakeFiles/Project8_starter_files.dir
+/Users/alexistorres/Documents/Code/EE312/Projects/Project8InterpreterA/Project8_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexistorres/Documents/Code/EE312/Projects/Project8InterpreterA/Project8_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir

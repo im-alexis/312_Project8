@@ -1,0 +1,21 @@
+
+text "Hello World\n"
+var x 10
+output x 
+text \n
+var y 10
+output y 
+text \n 
+//set x + x y
+output x 
+text \n
+set y + * x y y y
+output y 
+text \n
+var y 10
+output y 
+text \n
+set z 10
+output z
+text \n
+END
